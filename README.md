@@ -1,6 +1,7 @@
-Name : Niranjani.C
-Reference Number : 23009789
+
 # Ex-02-Admin
+Name : Niranjani.C
+Registration Number : 212223220069
 
 # AIM
 Create a django website with five users.Two users are to be staff users (including admin)
